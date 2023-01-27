@@ -1,0 +1,8 @@
+input[type="text"] {
+  border: 1px solid grey;
+  width: 300px;
+  padding: 5px;
+  outline: none;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
